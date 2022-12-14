@@ -1,7 +1,7 @@
 programa
 {
 	
-	funcao inicio()
+	funcao inicio()                                                    // Exercício 1: Idade daqui 5 anos
 	{
 		cadeia nome
 		escreva ("Digite seu nome: ")
