@@ -1,2 +1,2 @@
-# L-gica-de-programa-o
+# Lógica-de-programação
 Praticando lógica de programação
